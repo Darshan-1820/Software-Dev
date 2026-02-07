@@ -1,0 +1,9 @@
+﻿# Do not publish production code folders
+assure-backend-live/
+assure-frontend-live/
+Assure_Mobile-production/
+
+# Common local artifacts
+node_modules/
+.DS_Store
+Thumbs.db
